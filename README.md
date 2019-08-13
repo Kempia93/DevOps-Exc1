@@ -12,7 +12,4 @@ __Bold__
 
 **Bold**
 
-# Otsikko
-## 2-tason otsikko
-### 3-Tason otsikko
-(www.google.fi) URL-osoite
+ koira autolla
