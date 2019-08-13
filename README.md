@@ -11,5 +11,4 @@ __Bold__
 *Italic*
 
 **Bold**
-
- koira autolla ja kissa
+kissa autolla
